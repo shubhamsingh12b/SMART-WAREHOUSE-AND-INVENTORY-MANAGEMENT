@@ -1,0 +1,51 @@
+sku,name,category,warehouse_zone,bin_location,current_stock,reserved_stock,unit_cost,unit_price,lead_time_days,holding_cost_rate,order_cost,supplier,demand_history
+WMS-EL-101,Microcontroller Board v4,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-1/Rack-1-Bin-1,309,30,32.5,58.0,14,0.2,50.0,TechCore Silicon,236;194;180;191;254;184
+WMS-EL-102,Optical Barcode Scanner Handheld,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-4/Rack-3-Bin-2,153,18,75.0,129.99,10,0.2,50.0,ZebraOptics Ltd,132;134;95;96;139;112
+WMS-EL-103,Industrial RFID Tag Pack (1000ct),ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-7/Rack-5-Bin-3,0,0,120.0,195.0,21,0.2,50.0,OmniID Supply,150;122;123;122;164;181
+WMS-EL-104,Heavy Duty Thermal Label Printer,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-2/Rack-2-Bin-4,27,8,310.0,480.0,7,0.2,50.0,Printronix Co,139;129;109;105;111;145
+WMS-EL-105,Lithium-Ion Battery Pack 48V,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-5/Rack-4-Bin-5,176,5,450.0,690.0,25,0.2,50.0,VoltaPower Systems,28;25;41;40;32;27
+WMS-EL-106,PLC Automation Controller Module,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-8/Rack-1-Bin-6,210,0,520.0,850.0,18,0.2,50.0,Siemens Industrial,45;30;20;0;0;0
+WMS-EL-107,Gigabit Managed Switch 24-Port,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-3/Rack-3-Bin-7,85,10,185.0,299.0,12,0.2,50.0,Cisco Systems,10;220;15;310;5;290
+WMS-EL-108,Warehouse Wireless AP Antenna,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-6/Rack-5-Bin-8,105,8,65.0,110.0,8,0.2,50.0,Ubiquiti Networks,81;77;74;62;79;81
+WMS-EL-109,DC Power Inverter 12V-220V,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-1/Rack-2-Bin-9,606,25,95.0,160.0,15,0.2,50.0,MeanWell Power,272;381;398;261;319;392
+WMS-EL-110,Digital Caliper Sensor Kit,ELECTRONICS,ZONE-E (High Security),ZONE-E (High Security)/Aisle-4/Rack-4-Bin-10,47,2,42.0,78.0,10,0.2,50.0,Mitutoyo Precision,17;24;30;26;23;22
+WMS-IN-201,Hydraulic Forklift Seal Kit,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-1/Rack-1-Bin-1,326,32,48.0,85.0,12,0.2,50.0,Parker Hannifin,205;238;247;182;245;189
+WMS-IN-202,Roller Conveyor Bearings (Set of 10),INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-4/Rack-3-Bin-2,148,17,85.0,145.0,14,0.2,50.0,SKF Industrial,90;111;99;135;120;132
+WMS-IN-203,Pneumatic Cylinder 50mm Stroke,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-7/Rack-5-Bin-3,0,0,110.0,180.0,15,0.2,50.0,SMC Pneumatics,168;141;126;129;183;140
+WMS-IN-204,High Tensile Pallet Strapping 16mm,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-2/Rack-2-Bin-4,26,7,28.0,49.5,7,0.2,50.0,Signode Packaging,104;135;113;109;101;159
+WMS-IN-205,Polyurethane Forklift Drive Wheel,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-5/Rack-4-Bin-5,189,5,190.0,310.0,21,0.2,50.0,Crown Equipment,36;28;41;29;34;39
+WMS-IN-206,Overhead Crane Hoist Cable 20m,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-8/Rack-1-Bin-6,210,0,215.0,360.0,20,0.2,50.0,Konecranes,45;30;20;0;0;0
+WMS-IN-207,Safety Emergency Stop Switch,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-3/Rack-3-Bin-7,85,10,34.0,62.0,5,0.2,50.0,Schneider Electric,10;220;15;310;5;290
+WMS-IN-208,Conveyor Belt Rubber Joint 500mm,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-6/Rack-5-Bin-8,100,8,140.0,235.0,16,0.2,50.0,Continental ContiTech,61;73;68;81;85;61
+WMS-IN-209,Warehouse Bay Rack Beam Lock Pin,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-1/Rack-2-Bin-9,565,25,4.5,9.99,5,0.2,50.0,Interlake Mecalux,295;319;289;326;289;368
+WMS-IN-210,LED High-Bay Warehouse Lamp 150W,INDUSTRIAL_PARTS,ZONE-M (Heavy Machinery),ZONE-M (Heavy Machinery)/Aisle-4/Rack-4-Bin-10,51,2,55.0,95.0,10,0.2,50.0,Philips Lighting,16;27;26;30;25;29
+WMS-SC-301,Heavy Duty Nitrile Gloves (Box 100),SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-1/Rack-1-Bin-1,339,33,12.5,22.0,4,0.2,50.0,Ansell Protective,240;185;240;256;201;236
+WMS-SC-302,High-Visibility Safety Vest XL,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-4/Rack-3-Bin-2,158,18,7.2,15.0,5,0.2,50.0,3M Safety,136;139;123;118;108;107
+WMS-SC-303,Clear Stretch Wrap Film 500mmx300m,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-7/Rack-5-Bin-3,0,0,16.0,28.5,3,0.2,50.0,Berry Global,135;143;173;175;135;187
+WMS-SC-304,Steel Toe Safety Boots (Size 10),SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-2/Rack-2-Bin-4,30,9,68.0,115.0,10,0.2,50.0,Timberland PRO,106;153;153;131;124;152
+WMS-SC-305,Industrial Spill Clean Kit 20Gal,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-5/Rack-4-Bin-5,186,5,85.0,140.0,7,0.2,50.0,New Pig Corp,33;45;31;36;28;30
+WMS-SC-306,Packing Bubble Wrap Roll 100m,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-8/Rack-1-Bin-6,210,0,22.0,39.0,4,0.2,50.0,Sealed Air,45;30;20;0;0;0
+WMS-SC-307,Barcode Thermal Transfer Ribbon,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-3/Rack-3-Bin-7,85,10,14.5,27.0,6,0.2,50.0,Zebra Supplies,10;220;15;310;5;290
+WMS-SC-308,First Aid Wall Station Kit,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-6/Rack-5-Bin-8,104,8,45.0,79.0,7,0.2,50.0,Cintas First Aid,78;68;64;83;70;85
+WMS-SC-309,Box Sealing Tape 48mm Brown (6pk),SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-1/Rack-2-Bin-9,545,25,11.0,19.99,4,0.2,50.0,Scotch 3M,364;268;270;351;304;262
+WMS-SC-310,Ergonomic Back Support Belt L,SAFETY_AND_CONSUMABLES,ZONE-S (General Goods),ZONE-S (General Goods)/Aisle-4/Rack-4-Bin-10,42,2,26.0,46.0,6,0.2,50.0,Ergodyne Tools,24;16;22;17;25;24
+WMS-PH-401,Vaccine Cold-Chain Insulated Shipper,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-1/Rack-1-Bin-1,328,32,240.0,380.0,14,0.2,50.0,Pelican BioThermal,238;188;254;212;189;234
+WMS-PH-402,Digital Temperature Data Logger USB,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-4/Rack-3-Bin-2,144,17,38.0,65.0,7,0.2,50.0,Sensitech LogTag,102;96;115;102;135;119
+WMS-PH-403,Sterile Saline Solution IV 500ml,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-7/Rack-5-Bin-3,0,0,4.2,9.5,10,0.2,50.0,Baxter Healthcare,184;150;166;146;185;173
+WMS-PH-404,Insulin Pen Cartridge Storage Box,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-2/Rack-2-Bin-4,27,8,85.0,135.0,12,0.2,50.0,Novo Nordisk,111;160;137;113;119;103
+WMS-PH-405,Medical Grade Disinfectant 5L,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-5/Rack-4-Bin-5,209,5,32.0,58.0,5,0.2,50.0,Ecolab Healthcare,36;42;29;40;42;40
+WMS-PH-406,Cryogenic Storage Box 81-Well,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-8/Rack-1-Bin-6,210,0,19.5,34.0,8,0.2,50.0,Thermo Fisher,45;30;20;0;0;0
+WMS-PH-407,Biological Transport Bag Leakproof,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-3/Rack-3-Bin-7,85,10,1.8,4.5,6,0.2,50.0,Bio-Medical Co,10;220;15;310;5;290
+WMS-PH-408,Dry Ice Insulated Shipper 25L,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-6/Rack-5-Bin-8,94,8,115.0,185.0,11,0.2,50.0,CryoPort Systems,70;64;64;61;79;65
+WMS-PH-409,Surgical Grade Syringes 10ml (100pk),PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-1/Rack-2-Bin-9,545,25,18.0,32.0,7,0.2,50.0,Becton Dickinson,287;389;267;333;293;250
+WMS-PH-410,Calibrated Medical Freezer Probe,PHARMACEUTICAL_COLD,ZONE-C (Cold Chain 2-8°C),ZONE-C (Cold Chain 2-8°C)/Aisle-4/Rack-4-Bin-10,39,2,125.0,210.0,15,0.2,50.0,Omega Engineering,16;17;19;21;16;28
+WMS-FM-501,Roasted Coffee Beans Espresso 1kg,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-1/Rack-1-Bin-1,337,33,9.5,18.0,5,0.2,50.0,Lavazza SpA,230;221;206;228;215;248
+WMS-FM-502,Organic Almond Milk 1L (Case 12),FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-4/Rack-3-Bin-2,157,18,18.0,32.0,6,0.2,50.0,Blue Diamond,130;109;117;110;133;126
+WMS-FM-503,Natural Mineral Water 500ml (24pk),FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-7/Rack-5-Bin-3,0,0,5.5,12.0,3,0.2,50.0,Danone Waters,139;188;131;153;155;172
+WMS-FM-504,Dark Chocolate Single Origin 100g,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-2/Rack-2-Bin-4,28,8,2.2,4.5,8,0.2,50.0,Lindt & Sprungli,125;154;136;117;133;107
+WMS-FM-505,Artisan Olive Oil Extra Virgin 750ml,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-5/Rack-4-Bin-5,197,5,11.0,19.99,10,0.2,50.0,De Cecco Food,37;33;31;34;43;37
+WMS-FM-506,Organic Oats Rolled 2.5kg,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-8/Rack-1-Bin-6,210,0,6.8,12.5,5,0.2,50.0,Quaker Nutrition,45;30;20;0;0;0
+WMS-FM-507,Green Tea Matcha Japanese 100g,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-3/Rack-3-Bin-7,85,10,14.0,26.0,12,0.2,50.0,Ito En Tea,10;220;15;310;5;290
+WMS-FM-508,Whole Grain Pasta 500g (Case 20),FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-6/Rack-5-Bin-8,100,8,16.5,29.0,7,0.2,50.0,Barilla Group,61;71;74;67;84;75
+WMS-FM-509,Pure Wildflower Honey 500g Jar,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-1/Rack-2-Bin-9,557,25,7.5,14.0,9,0.2,50.0,Nature Nate,292;347;328;250;268;372
+WMS-FM-510,Protein Granola Clusters 1kg,FAST_MOVING_GOODS,ZONE-F (High Velocity FMCG),ZONE-F (High Velocity FMCG)/Aisle-4/Rack-4-Bin-10,52,2,8.2,15.5,6,0.2,50.0,Kellogg's Food,27;24;28;30;20;27

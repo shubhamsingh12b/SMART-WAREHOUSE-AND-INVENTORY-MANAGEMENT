@@ -1,0 +1,51 @@
+SKU,Name,Category,Stock,Cost,Price,LeadTime,Supplier,Demand
+WMS-EL-101,Microcontroller Board v4,ELECTRONICS,299,32.5,58,14,TechCore Silicon,206
+WMS-EL-102,Optical Barcode Scanner Handheld,ELECTRONICS,153,75,129.99,10,ZebraOptics Ltd,118
+WMS-EL-103,Industrial RFID Tag Pack (1000ct),ELECTRONICS,75,120,195,21,OmniID Supply,143
+WMS-EL-104,Heavy Duty Thermal Label Printer,ELECTRONICS,27,310,480,7,Printronix Co,123
+WMS-EL-105,Lithium-Ion Battery Pack 48V,ELECTRONICS,176,450,690,25,VoltaPower Systems,32
+WMS-EL-106,PLC Automation Controller Module,ELECTRONICS,210,520,850,18,Siemens Industrial,15
+WMS-EL-107,Gigabit Managed Switch 24-Port,ELECTRONICS,85,185,299,12,Cisco Systems,141
+WMS-EL-108,Warehouse Wireless AP Antenna,ELECTRONICS,105,65,110,8,Ubiquiti Networks,75
+WMS-EL-109,DC Power Inverter 12V-220V,ELECTRONICS,606,95,160,15,MeanWell Power,337
+WMS-EL-110,Digital Caliper Sensor Kit,ELECTRONICS,47,42,78,10,Mitutoyo Precision,23
+WMS-IN-201,Hydraulic Forklift Seal Kit,INDUSTRIAL_PARTS,326,48,85,12,Parker Hannifin,217
+WMS-IN-202,Roller Conveyor Bearings (Set of 10),INDUSTRIAL_PARTS,148,85,145,14,SKF Industrial,114
+WMS-IN-203,Pneumatic Cylinder 50mm Stroke,INDUSTRIAL_PARTS,0,110,180,15,SMC Pneumatics,147
+WMS-IN-204,High Tensile Pallet Strapping 16mm,INDUSTRIAL_PARTS,26,28,49.5,7,Signode Packaging,120
+WMS-IN-205,Polyurethane Forklift Drive Wheel,INDUSTRIAL_PARTS,189,190,310,21,Crown Equipment,34
+WMS-IN-206,Overhead Crane Hoist Cable 20m,INDUSTRIAL_PARTS,210,215,360,20,Konecranes,15
+WMS-IN-207,Safety Emergency Stop Switch,INDUSTRIAL_PARTS,85,34,62,5,Schneider Electric,141
+WMS-IN-208,Conveyor Belt Rubber Joint 500mm,INDUSTRIAL_PARTS,100,140,235,16,Continental ContiTech,71
+WMS-IN-209,Warehouse Bay Rack Beam Lock Pin,INDUSTRIAL_PARTS,565,4.5,9.99,5,Interlake Mecalux,314
+WMS-IN-210,LED High-Bay Warehouse Lamp 150W,INDUSTRIAL_PARTS,51,55,95,10,Philips Lighting,25
+WMS-SC-301,Heavy Duty Nitrile Gloves (Box 100),SAFETY_AND_CONSUMABLES,339,12.5,22,4,Ansell Protective,226
+WMS-SC-302,High-Visibility Safety Vest XL,SAFETY_AND_CONSUMABLES,158,7.2,15,5,3M Safety,121
+WMS-SC-303,Clear Stretch Wrap Film 500mmx300m,SAFETY_AND_CONSUMABLES,0,16,28.5,3,Berry Global,158
+WMS-SC-304,Steel Toe Safety Boots (Size 10),SAFETY_AND_CONSUMABLES,30,68,115,10,Timberland PRO,136
+WMS-SC-305,Industrial Spill Clean Kit 20Gal,SAFETY_AND_CONSUMABLES,186,85,140,7,New Pig Corp,33
+WMS-SC-306,Packing Bubble Wrap Roll 100m,SAFETY_AND_CONSUMABLES,210,22,39,4,Sealed Air,15
+WMS-SC-307,Barcode Thermal Transfer Ribbon,SAFETY_AND_CONSUMABLES,85,14.5,27,6,Zebra Supplies,141
+WMS-SC-308,First Aid Wall Station Kit,SAFETY_AND_CONSUMABLES,104,45,79,7,Cintas First Aid,74
+WMS-SC-309,Box Sealing Tape 48mm Brown (6pk),SAFETY_AND_CONSUMABLES,545,11,19.99,4,Scotch 3M,303
+WMS-SC-310,Ergonomic Back Support Belt L,SAFETY_AND_CONSUMABLES,42,26,46,6,Ergodyne Tools,21
+WMS-PH-401,Vaccine Cold-Chain Insulated Shipper,PHARMACEUTICAL_COLD,328,240,380,14,Pelican BioThermal,219
+WMS-PH-402,Digital Temperature Data Logger USB,PHARMACEUTICAL_COLD,144,38,65,7,Sensitech LogTag,111
+WMS-PH-403,Sterile Saline Solution IV 500ml,PHARMACEUTICAL_COLD,0,4.2,9.5,10,Baxter Healthcare,167
+WMS-PH-404,Insulin Pen Cartridge Storage Box,PHARMACEUTICAL_COLD,27,85,135,12,Novo Nordisk,123
+WMS-PH-405,Medical Grade Disinfectant 5L,PHARMACEUTICAL_COLD,209,32,58,5,Ecolab Healthcare,38
+WMS-PH-406,Cryogenic Storage Box 81-Well,PHARMACEUTICAL_COLD,210,19.5,34,8,Thermo Fisher,15
+WMS-PH-407,Biological Transport Bag Leakproof,PHARMACEUTICAL_COLD,85,1.8,4.5,6,Bio-Medical Co,141
+WMS-PH-408,Dry Ice Insulated Shipper 25L,PHARMACEUTICAL_COLD,94,115,185,11,CryoPort Systems,67
+WMS-PH-409,Surgical Grade Syringes 10ml (100pk),PHARMACEUTICAL_COLD,545,18,32,7,Becton Dickinson,303
+WMS-PH-410,Calibrated Medical Freezer Probe,PHARMACEUTICAL_COLD,39,125,210,15,Omega Engineering,19
+WMS-FM-501,Roasted Coffee Beans Espresso 1kg,FAST_MOVING_GOODS,337,9.5,18,5,Lavazza SpA,224
+WMS-FM-502,Organic Almond Milk 1L (Case 12),FAST_MOVING_GOODS,157,18,32,6,Blue Diamond,120
+WMS-FM-503,Natural Mineral Water 500ml (24pk),FAST_MOVING_GOODS,0,5.5,12,3,Danone Waters,156
+WMS-FM-504,Dark Chocolate Single Origin 100g,FAST_MOVING_GOODS,28,2.2,4.5,8,Lindt & Sprungli,128
+WMS-FM-505,Artisan Olive Oil Extra Virgin 750ml,FAST_MOVING_GOODS,197,11,19.99,10,De Cecco Food,35
+WMS-FM-506,Organic Oats Rolled 2.5kg,FAST_MOVING_GOODS,210,6.8,12.5,5,Quaker Nutrition,15
+WMS-FM-507,Green Tea Matcha Japanese 100g,FAST_MOVING_GOODS,85,14,26,12,Ito En Tea,141
+WMS-FM-508,Whole Grain Pasta 500g (Case 20),FAST_MOVING_GOODS,100,16.5,29,7,Barilla Group,72
+WMS-FM-509,Pure Wildflower Honey 500g Jar,FAST_MOVING_GOODS,557,7.5,14,9,Nature Nate,309
+WMS-FM-510,Protein Granola Clusters 1kg,FAST_MOVING_GOODS,52,8.2,15.5,6,Kellogg's Food,26

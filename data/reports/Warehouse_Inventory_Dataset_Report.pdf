@@ -1,0 +1,174 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 1963 >>
+stream
+BT
+/F2 16 Tf
+50 740 Td
+(SMART WAREHOUSE & INVENTORY MANAGEMENT REPORT) Tj
+/F1 10 Tf
+0 -25 Td
+(Total Active Products: 50) Tj
+0 -18 Td
+(========================================================================) Tj
+/F2 12 Tf
+0 -22 Td
+(1. SMART ANALYSIS & REORDER STATUS SUMMARY) Tj
+/F1 9 Tf
+0 -16 Td
+(WMS-EL-101 | Microcontroller Board  | Stock: 309 | ROP: 130 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-102 | Optical Barcode Scanne | Stock: 153 | ROP: 58 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-103 | Industrial RFID Tag Pa | Stock: 0 | ROP: 123 | OUT_OF_STOCK) Tj
+0 -16 Td
+(WMS-EL-104 | Heavy Duty Thermal Lab | Stock: 27 | ROP: 48 | REORDER_NOW) Tj
+0 -16 Td
+(WMS-EL-105 | Lithium-Ion Battery Pa | Stock: 176 | ROP: 31 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-106 | PLC Automation Control | Stock: 210 | ROP: 11 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-107 | Gigabit Managed Switch | Stock: 85 | ROP: 79 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-108 | Warehouse Wireless AP  | Stock: 105 | ROP: 32 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-109 | DC Power Inverter 12V- | Stock: 606 | ROP: 224 | HEALTHY) Tj
+0 -16 Td
+(WMS-EL-110 | Digital Caliper Sensor | Stock: 47 | ROP: 10 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-201 | Hydraulic Forklift Sea | Stock: 326 | ROP: 122 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-202 | Roller Conveyor Bearin | Stock: 148 | ROP: 72 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-203 | Pneumatic Cylinder 50m | Stock: 0 | ROP: 97 | OUT_OF_STOCK) Tj
+0 -16 Td
+(WMS-IN-204 | High Tensile Pallet St | Stock: 26 | ROP: 48 | REORDER_NOW) Tj
+0 -16 Td
+(WMS-IN-205 | Polyurethane Forklift  | Stock: 189 | ROP: 28 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-206 | Overhead Crane Hoist C | Stock: 210 | ROP: 12 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-207 | Safety Emergency Stop  | Stock: 85 | ROP: 46 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-208 | Conveyor Belt Rubber J | Stock: 100 | ROP: 48 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-209 | Warehouse Bay Rack Bea | Stock: 565 | ROP: 104 | HEALTHY) Tj
+0 -16 Td
+(WMS-IN-210 | LED High-Bay Warehouse | Stock: 51 | ROP: 12 | HEALTHY) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 3515 >>
+stream
+BT
+/F2 16 Tf
+50 740 Td
+(MASTER WMS INVENTORY DATASET) Tj
+/F1 9 Tf
+0 -22 Td
+(SKU           PRODUCT NAME                 STOCK     COST      PRICE     SUPPLIER) Tj
+0 -15 Td
+(------------------------------------------------------------------------------------------------) Tj
+0 -15 Td
+(WMS-EL-101     Microcontroller Board v4   309       $32.50    $58.00    TechCore Silicon) Tj
+0 -15 Td
+(WMS-EL-102     Optical Barcode Scanner    153       $75.00    $129.99   ZebraOptics Ltd) Tj
+0 -15 Td
+(WMS-EL-103     Industrial RFID Tag Pack   0         $120.00   $195.00   OmniID Supply) Tj
+0 -15 Td
+(WMS-EL-104     Heavy Duty Thermal Label   27        $310.00   $480.00   Printronix Co) Tj
+0 -15 Td
+(WMS-EL-105     Lithium-Ion Battery Pack   176       $450.00   $690.00   VoltaPower Syste) Tj
+0 -15 Td
+(WMS-EL-106     PLC Automation Controlle   210       $520.00   $850.00   Siemens Industri) Tj
+0 -15 Td
+(WMS-EL-107     Gigabit Managed Switch 2   85        $185.00   $299.00   Cisco Systems) Tj
+0 -15 Td
+(WMS-EL-108     Warehouse Wireless AP An   105       $65.00    $110.00   Ubiquiti Network) Tj
+0 -15 Td
+(WMS-EL-109     DC Power Inverter 12V-22   606       $95.00    $160.00   MeanWell Power) Tj
+0 -15 Td
+(WMS-EL-110     Digital Caliper Sensor K   47        $42.00    $78.00    Mitutoyo Precisi) Tj
+0 -15 Td
+(WMS-IN-201     Hydraulic Forklift Seal    326       $48.00    $85.00    Parker Hannifin) Tj
+0 -15 Td
+(WMS-IN-202     Roller Conveyor Bearings   148       $85.00    $145.00   SKF Industrial) Tj
+0 -15 Td
+(WMS-IN-203     Pneumatic Cylinder 50mm    0         $110.00   $180.00   SMC Pneumatics) Tj
+0 -15 Td
+(WMS-IN-204     High Tensile Pallet Stra   26        $28.00    $49.50    Signode Packagin) Tj
+0 -15 Td
+(WMS-IN-205     Polyurethane Forklift Dr   189       $190.00   $310.00   Crown Equipment) Tj
+0 -15 Td
+(WMS-IN-206     Overhead Crane Hoist Cab   210       $215.00   $360.00   Konecranes) Tj
+0 -15 Td
+(WMS-IN-207     Safety Emergency Stop Sw   85        $34.00    $62.00    Schneider Electr) Tj
+0 -15 Td
+(WMS-IN-208     Conveyor Belt Rubber Joi   100       $140.00   $235.00   Continental Cont) Tj
+0 -15 Td
+(WMS-IN-209     Warehouse Bay Rack Beam    565       $4.50     $9.99     Interlake Mecalu) Tj
+0 -15 Td
+(WMS-IN-210     LED High-Bay Warehouse L   51        $55.00    $95.00    Philips Lighting) Tj
+0 -15 Td
+(WMS-SC-301     Heavy Duty Nitrile Glove   339       $12.50    $22.00    Ansell Protectiv) Tj
+0 -15 Td
+(WMS-SC-302     High-Visibility Safety V   158       $7.20     $15.00    3M Safety) Tj
+0 -15 Td
+(WMS-SC-303     Clear Stretch Wrap Film    0         $16.00    $28.50    Berry Global) Tj
+0 -15 Td
+(WMS-SC-304     Steel Toe Safety Boots \(   30        $68.00    $115.00   Timberland PRO) Tj
+0 -15 Td
+(WMS-SC-305     Industrial Spill Clean K   186       $85.00    $140.00   New Pig Corp) Tj
+0 -15 Td
+(WMS-SC-306     Packing Bubble Wrap Roll   210       $22.00    $39.00    Sealed Air) Tj
+0 -15 Td
+(WMS-SC-307     Barcode Thermal Transfer   85        $14.50    $27.00    Zebra Supplies) Tj
+0 -15 Td
+(WMS-SC-308     First Aid Wall Station K   104       $45.00    $79.00    Cintas First Aid) Tj
+0 -15 Td
+(WMS-SC-309     Box Sealing Tape 48mm Br   545       $11.00    $19.99    Scotch 3M) Tj
+0 -15 Td
+(WMS-SC-310     Ergonomic Back Support B   42        $26.00    $46.00    Ergodyne Tools) Tj
+0 -15 Td
+(WMS-PH-401     Vaccine Cold-Chain Insul   328       $240.00   $380.00   Pelican BioTherm) Tj
+0 -15 Td
+(WMS-PH-402     Digital Temperature Data   144       $38.00    $65.00    Sensitech LogTag) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000272 00000 n 
+0000000408 00000 n 
+0000002422 00000 n 
+0000002558 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6124
+%%EOF

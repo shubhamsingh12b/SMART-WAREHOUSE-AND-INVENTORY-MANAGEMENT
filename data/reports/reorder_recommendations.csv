@@ -1,0 +1,51 @@
+sku,name,supplier,current_stock,lead_time_days,safety_stock,reorder_point,eoq,reorder_needed,urgency,recommended_order_qty,estimated_order_cost
+"WMS-EL-101","Microcontroller Board v4","TechCore Silicon",309,14,35,131,195,NO,"NONE",0,0
+"WMS-EL-102","Optical Barcode Scanner Handheld","ZebraOptics Ltd",153,10,19,58,97,NO,"NONE",0,0
+"WMS-EL-103","Industrial RFID Tag Pack (1000ct)","OmniID Supply",0,21,35,136,85,YES,"EMERGENCY",171,20520
+"WMS-EL-104","Heavy Duty Thermal Label Printer","Printronix Co",27,7,14,43,49,YES,"MEDIUM",49,15190
+"WMS-EL-105","Lithium-Ion Battery Pack 48V","VoltaPower Systems",176,25,10,37,21,NO,"NONE",0,0
+"WMS-EL-106","PLC Automation Controller Module","Siemens Industrial",210,18,24,34,14,NO,"NONE",0,0
+"WMS-EL-107","Gigabit Managed Switch 24-Port","Cisco Systems",85,12,154,211,68,YES,"HIGH",280,51800
+"WMS-EL-108","Warehouse Wireless AP Antenna","Ubiquiti Networks",105,8,6,26,84,NO,"NONE",0,0
+"WMS-EL-109","DC Power Inverter 12V-220V","MeanWell Power",606,15,72,241,146,NO,"NONE",0,0
+"WMS-EL-110","Digital Caliper Sensor Kit","Mitutoyo Precision",47,10,4,12,58,NO,"NONE",0,0
+"WMS-IN-201","Hydraulic Forklift Seal Kit","Parker Hannifin",326,12,31,118,165,NO,"NONE",0,0
+"WMS-IN-202","Roller Conveyor Bearings (Set of 10)","SKF Industrial",148,14,20,73,90,NO,"NONE",0,0
+"WMS-IN-203","Pneumatic Cylinder 50mm Stroke","SMC Pneumatics",0,15,27,101,90,YES,"EMERGENCY",128,14080
+"WMS-IN-204","High Tensile Pallet Strapping 16mm","Signode Packaging",26,7,18,46,160,YES,"MEDIUM",160,4480
+"WMS-IN-205","Polyurethane Forklift Drive Wheel","Crown Equipment",189,21,7,31,33,NO,"NONE",0,0
+"WMS-IN-206","Overhead Crane Hoist Cable 20m","Konecranes",210,20,26,37,21,NO,"NONE",0,0
+"WMS-IN-207","Safety Emergency Stop Switch","Schneider Electric",85,5,99,123,158,YES,"HIGH",158,5372
+"WMS-IN-208","Conveyor Belt Rubber Joint 500mm","Continental ContiTech",100,16,12,50,55,NO,"NONE",0,0
+"WMS-IN-209","Warehouse Bay Rack Beam Lock Pin","Interlake Mecalux",565,5,21,73,647,NO,"NONE",0,0
+"WMS-IN-210","LED High-Bay Warehouse Lamp 150W","Philips Lighting",51,10,5,14,53,NO,"NONE",0,0
+"WMS-SC-301","Heavy Duty Nitrile Gloves (Box 100)","Ansell Protective",339,4,16,46,330,NO,"NONE",0,0
+"WMS-SC-302","High-Visibility Safety Vest XL","3M Safety",158,5,9,29,319,NO,"NONE",0,0
+"WMS-SC-303","Clear Stretch Wrap Film 500mmx300m","Berry Global",0,3,12,28,243,YES,"EMERGENCY",243,3888
+"WMS-SC-304","Steel Toe Safety Boots (Size 10)","Timberland PRO",30,10,19,65,110,YES,"MEDIUM",110,7480
+"WMS-SC-305","Industrial Spill Clean Kit 20Gal","New Pig Corp",186,7,5,13,49,NO,"NONE",0,0
+"WMS-SC-306","Packing Bubble Wrap Roll 100m","Sealed Air",210,4,11,13,66,NO,"NONE",0,0
+"WMS-SC-307","Barcode Thermal Transfer Ribbon","Zebra Supplies",85,6,109,137,242,YES,"HIGH",242,3509
+"WMS-SC-308","First Aid Wall Station Kit","Cintas First Aid",104,7,7,24,100,NO,"NONE",0,0
+"WMS-SC-309","Box Sealing Tape 48mm Brown (6pk)","Scotch 3M",545,4,27,67,407,NO,"NONE",0,0
+"WMS-SC-310","Ergonomic Back Support Belt L","Ergodyne Tools",42,6,3,7,70,NO,"NONE",0,0
+"WMS-PH-401","Vaccine Cold-Chain Insulated Shipper","Pelican BioThermal",328,14,31,133,74,NO,"NONE",0,0
+"WMS-PH-402","Digital Temperature Data Logger USB","Sensitech LogTag",144,7,12,38,133,NO,"NONE",0,0
+"WMS-PH-403","Sterile Saline Solution IV 500ml","Baxter Healthcare",0,10,16,72,489,YES,"EMERGENCY",489,2053.8
+"WMS-PH-404","Insulin Pen Cartridge Storage Box","Novo Nordisk",27,12,22,72,93,YES,"MEDIUM",93,7905
+"WMS-PH-405","Medical Grade Disinfectant 5L","Ecolab Healthcare",209,5,3,9,85,NO,"NONE",0,0
+"WMS-PH-406","Cryogenic Storage Box 81-Well","Thermo Fisher",210,8,16,20,70,NO,"NONE",0,0
+"WMS-PH-407","Biological Transport Bag Leakproof","Bio-Medical Co",85,6,109,137,583,YES,"HIGH",583,1049.4
+"WMS-PH-408","Dry Ice Insulated Shipper 25L","CryoPort Systems",94,11,6,31,59,NO,"NONE",0,0
+"WMS-PH-409","Surgical Grade Syringes 10ml (100pk)","Becton Dickinson",545,7,40,111,318,NO,"NONE",0,0
+"WMS-PH-410","Calibrated Medical Freezer Probe","Omega Engineering",39,15,5,15,31,NO,"NONE",0,0
+"WMS-FM-501","Roasted Coffee Beans Espresso 1kg","Lavazza SpA",337,5,10,47,377,NO,"NONE",0,0
+"WMS-FM-502","Organic Almond Milk 1L (Case 12)","Blue Diamond",157,6,8,32,201,NO,"NONE",0,0
+"WMS-FM-503","Natural Mineral Water 500ml (24pk)","Danone Waters",0,3,11,27,413,YES,"EMERGENCY",413,2271.5
+"WMS-FM-504","Dark Chocolate Single Origin 100g","Lindt & Sprungli",28,8,14,48,556,YES,"MEDIUM",556,1223.2
+"WMS-FM-505","Artisan Olive Oil Extra Virgin 750ml","De Cecco Food",197,10,4,16,140,NO,"NONE",0,0
+"WMS-FM-506","Organic Oats Rolled 2.5kg","Quaker Nutrition",210,5,13,16,118,NO,"NONE",0,0
+"WMS-FM-507","Green Tea Matcha Japanese 100g","Ito En Tea",85,12,154,211,246,YES,"HIGH",280,3920
+"WMS-FM-508","Whole Grain Pasta 500g (Case 20)","Barilla Group",100,7,6,23,162,NO,"NONE",0,0
+"WMS-FM-509","Pure Wildflower Honey 500g Jar","Nature Nate",557,9,43,136,498,NO,"NONE",0,0
+"WMS-FM-510","Protein Granola Clusters 1kg","Kellogg's Food",52,6,3,8,138,NO,"NONE",0,0
